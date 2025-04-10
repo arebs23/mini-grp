@@ -16,5 +16,5 @@ Pillow==9.4.0
 rlds
 wandb
 #hydra-core
-#hydra-optuna-sweeper
-#hydra-submitit-launcher
+hydra-optuna-sweeper
+hydra-submitit-launcher
